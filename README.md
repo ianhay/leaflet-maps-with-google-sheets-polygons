@@ -2,7 +2,7 @@
 Leaflet Maps with Google Sheets - polygons-version for teaching purposes
 
 ## Live links (replace with your own)
-- Leaflet Map https://ianhay.github.io/leaflet-maps-with-google-sheets-polygons/index.html
+- Leaflet Map https://ianhay.github.io/leaflet-maps-with-google-sheets-polygons/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1v5Azm7rQ5DSv-R87V13r11jfzUtRxDJDrY1osqMsQxw/pubhtml
 
 ## Create your own
